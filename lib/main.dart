@@ -43,13 +43,13 @@ class BloodRequestsScreen extends StatelessWidget {
           BloodRequestCard(
             bloodType: 'O-',
             units: 3,
-            location: 'Khulna City Medical College Hospital, KDA Ave.',
+            location: 'Khulna City Medical College Hospital, KDA Ave...',
           ),
           SizedBox(height: 16),
           BloodRequestCard(
             bloodType: 'O+',
             units: 2,
-            location: 'Khulna City Medical College Hospital, KDA Ave.',
+            location: 'Khulna City Medical College Hospital, KDA Ave...',
           ),
         ],
       ),
